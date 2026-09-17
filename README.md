@@ -16,7 +16,7 @@ Tools Used:
 
 Main Files: 
 - User_Profile_Cleanup_Reporter.ps1 
-- README.txt
+- README.md
 
 Project Folders:
 - Reports 
